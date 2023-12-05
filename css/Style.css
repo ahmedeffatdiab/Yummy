@@ -1,0 +1,64 @@
+body{
+    background-color: #0D0D0D;
+    color: white;
+}
+.xIcon{
+    cursor: pointer;
+}
+ul li a{
+    cursor: pointer;
+    color:#ffffff;
+    text-decoration: none;
+}
+.logo{
+    width:50px;
+}
+.side-nav-menu{
+    z-index: 99;
+}
+.nav-tab{
+    background-color: #0D0D0D;
+}
+.open-close-icon{
+    cursor: pointer;
+}
+.xIcon{
+    display: none;
+}
+.links{
+    overflow: hidden;
+}
+.meal-layer{
+    top:100%;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(252, 252, 252, 0.669);
+    transition: .5s;
+}
+.meal:hover .meal-layer{
+    top:0
+}
+
+.Ingradient:hover{
+    cursor: pointer;
+    border: .5px solid rosybrown;
+}   
+.cursor-pointer{
+    cursor: pointer;
+}
+.loading-Screen{
+    z-index: 999;
+    background-color: #0D0D0D;
+    display: flex;
+}
+.inner-loading-screen{
+    position: absolute;
+    z-index: 9;
+    background-color: #0D0D0D;
+    display:flex;
+}
+.alert{
+    width:fit-content !important;
+    padding:3px;
+    margin-left:10px;
+}
