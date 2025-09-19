@@ -27,5 +27,9 @@ This application displays a wide variety of food recipes, along with detailed in
 
 📸 Screenshots
 
-<img width="1338" height="648" alt="3" src="https://github.com/user-attachments/assets/0d44a4bf-2b53-4918-8456-30fd55153f93" />
+<img width="300" height="300" alt="3" src="https://github.com/user-attachments/assets/0d44a4bf-2b53-4918-8456-30fd55153f93" />
+
+📄 License
+
+This project is licensed under the MIT License.
 
